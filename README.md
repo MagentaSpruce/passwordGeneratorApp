@@ -1,12 +1,11 @@
 # passwordGeneratorApp
 Password generator built using HTML, CSS, and JS.
 
-This project...
+This project takes in four parameters and uses them to generate random passwords. This is a stand alone project which can be cross utilized with ease.
 
 Building this project helped me to better practice and understand the following:
-1) Dos
-2) 1
-
+1) execCommand()
+2) DOM manipulation
 
 A general walkthrough of the JavaScript code for this project is below.
 
